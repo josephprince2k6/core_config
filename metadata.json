@@ -1,0 +1,6 @@
+{
+  "name": "CORE_CONFIG Precision PC Builder",
+  "description": "A precision high-performance PC configuration tool and custom rig builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
